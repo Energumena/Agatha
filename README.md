@@ -1,8 +1,9 @@
 :metal: :thinking: Quem é Ágatha? :thinking: :metal:
 ---
-:wave: Bom eu sou a _**Ágatha**_ tenho  15 anos e sou estudante do 1°Ano na área de _**Informática**_ da [TECPUC](https://www.tecpuc.com.br). :ok_woman:
-se quiser pode usar os **códigos** que eu salvo aqui!(mas lembra de usar no modo **edição**
-
+> :wave: Bom eu sou a _**Ágatha**_ tenho  15 anos e sou estudante do 1°Ano na área de _**Informática**_ da [TECPUC](https://www.tecpuc.com.br). :ok_woman:
+> 
+> se quiser pode usar os **códigos** que eu salvo aqui!(mas lembra de usar no modo **edição**
+> 
 > :camera_flash: :iphone: Aqui ta o meu perfil do [Instagram](https://www.instagram.com/x.energumena/) se quiser me seguir! :iphone: :camera_flash:
 ---
 Obrii por olhar meu perfil!! 
